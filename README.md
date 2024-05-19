@@ -18,4 +18,19 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 - Neural Network Architecture
 
 ### Lectures
-- [Week 1-Introduction to Deep Learning]
+- [Week 1-Introduction to Deep Learning](https://github.com/SatishAdhikari/Deep-Learning-Specialization-Coursera/blob/2e2e9c9b4e37e74de8b393e70959ebf56be7f238/Neural%20Networks%20and%20Deep%20Learning/Lectures/NNDL-Week%201.pdf)
+- [Week 2-Neural Networks Basics](https://github.com/SatishAdhikari/Deep-Learning-Specialization-Coursera/blob/2e2e9c9b4e37e74de8b393e70959ebf56be7f238/Neural%20Networks%20and%20Deep%20Learning/Lectures/NNDL-Week%202.pdf)
+  - [Week 2-Neural Networks Basics - Detailed Explanation on topics] 
+    - [1.Standard notations for Deep Learning](https://github.com/SatishAdhikari/Deep-Learning-Specialization-Coursera/blob/2e2e9c9b4e37e74de8b393e70959ebf56be7f238/Neural%20Networks%20and%20Deep%20Learning/Lectures/additional_explanantion-Week%202/1.%20Standard%20notations%20for%20Deep%20Learning.pdf)
+    - [2.Binary_Classification](https://github.com/SatishAdhikari/Deep-Learning-Specialization-Coursera/blob/2e2e9c9b4e37e74de8b393e70959ebf56be7f238/Neural%20Networks%20and%20Deep%20Learning/Lectures/additional_explanantion-Week%202/2.%20Binary_Classification.pdf)
+    - [3.Logistic_Regression](https://github.com/SatishAdhikari/Deep-Learning-Specialization-Coursera/blob/2e2e9c9b4e37e74de8b393e70959ebf56be7f238/Neural%20Networks%20and%20Deep%20Learning/Lectures/additional_explanantion-Week%202/3.%20Logistic_Regression.pdf)
+    - [4.Logistic_Regression_Cost_Function](https://github.com/SatishAdhikari/Deep-Learning-Specialization-Coursera/blob/2e2e9c9b4e37e74de8b393e70959ebf56be7f238/Neural%20Networks%20and%20Deep%20Learning/Lectures/additional_explanantion-Week%202/4.%20Logistic_Regression_Cost_Function.pdf)
+
+### Quizes
+- [Week 1-Introduction to deep learning](https://github.com/SatishAdhikari/Deep-Learning-Specialization-Coursera/blob/2e2e9c9b4e37e74de8b393e70959ebf56be7f238/Neural%20Networks%20and%20Deep%20Learning/Quizes/Week1-Introduction-to-deep-learning.pdf)
+- [Week 2-Neural Network Basics]
+- [Week 3-Shallow Neural Networks]
+- [Week 4-Key concepts on Deep Neural Networks]
+
+### Assignment 
+- [Week 2-Programming Assignment Python Basics with numpy]
