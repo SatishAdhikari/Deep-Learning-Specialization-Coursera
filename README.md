@@ -33,4 +33,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 - [Week 4-Key concepts on Deep Neural Networks]
 
 ### Assignment 
-- [Week 2-Programming Assignment Python Basics with numpy]
+- [Week 1] --> No programming assignment
+- [Week 2-Programming Assignment Python Basics with numpy](https://github.com/SatishAdhikari/Deep-Learning-Specialization-Coursera/blob/6c788ec5e8707eac59d3d8a0a5a02975f451a04e/Neural%20Networks%20and%20Deep%20Learning/Assignments/Week%202-Deep%20Neural%20Network%20Basics/Python_Basics_with_Numpy.ipynb)
+- [Week 2 - Logistic_Regression_with_a_Neural_Network_mindset]
+- 
