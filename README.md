@@ -37,3 +37,12 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 - [Week 2-Programming Assignment Python Basics with numpy](https://github.com/SatishAdhikari/Deep-Learning-Specialization-Coursera/blob/6c788ec5e8707eac59d3d8a0a5a02975f451a04e/Neural%20Networks%20and%20Deep%20Learning/Assignments/Week%202-Deep%20Neural%20Network%20Basics/Python_Basics_with_Numpy.ipynb)
 - [Week 2 - Logistic_Regression_with_a_Neural_Network_mindset]
 - 
+
+### References
+- [Week 2:]
+    - [GitHub:Implementing a Neural Network from Scratch in Python – An Introduction(Denny Britz, 2015)](https://github.com/dennybritz/nn-from-scratch)
+    - [stackexchange:Why normalize images by subtracting dataset's image mean, instead of the current image mean in deep learning?](https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current)
+- [Week 3:]
+    - [CS231n: Convolutional Neural Networks for Visual Recognition -> Stanford University](https://cs231n.github.io/neural-networks-case-study/)
+- [Week 4:]
+    - [Stackoverflow: Autoreload of modules in IPython](https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython)
